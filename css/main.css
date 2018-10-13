@@ -51,8 +51,8 @@ div {
 /* Profile Image */
 article img {
   border-radius: 50%;
-  width: 400px;
-  height: 250px;
+  width: 270px;
+  height: 270px;
   -webkit-filter: drop-shadow(0 0 10px rgba(255, 255, 255, 0.5));
   filter: drop-shadow(0 0 10px rgba(255, 255, 255, 0.5));
 }
@@ -229,8 +229,8 @@ article img,
 
   /* Profile Image */
   article img {
-    width: 400px;
-    height: 200px !important;
+    width: 200px;
+    height: 230px !important;
   }
 
   article img,
